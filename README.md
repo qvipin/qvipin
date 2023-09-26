@@ -13,8 +13,8 @@ class GitHubProfile:
         self.interests = ["Linux", "CTFs", "ETH/BTC/SOL", "Python"]
         self.website = "WIP"
         self.twitter = "WIP"
-        self.youtube = "[Youtube](https://www.youtube.com/@qvipin)"
-        self.github = "[qvipin](https://github.com/qvipin)"
+        self.youtube = "https://www.youtube.com/@qvipin"
+        self.github = "https://github.com/qvipin"
         self.discord = "qvipin"
         self.project = "none atm"
     
