@@ -16,7 +16,7 @@ class GitHubProfile:
         self.youtube = "https://www.youtube.com/@qvipin"
         self.github = "https://github.com/qvipin"
         self.discord = "qvipin"
-        self.project = "none atm"
+        self.project = "my website"
     
 if __name__ == "__main__":
     my_profile = GitHubProfile()
