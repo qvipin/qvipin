@@ -17,7 +17,9 @@ class GitHubProfile:
         self.youtube = ["https://www.youtube.com/@qvipin"]
         self.github = ["https://github.com/qvipin"]
         self.discord = ["qvipin"]
+        self.email = ["qvipin.dev@gmail.com")
         self.project = ["my website"]
+        s
     
 if __name__ == "__main__":
     my_profile = GitHubProfile()
@@ -33,6 +35,9 @@ if __name__ == "__main__":
     print(f"Youtube: {my_profile.youtube}")
     print(f"GitHub: {my_profile.github}")
     print(f"Discord: {my_profile.discord}")
+    print(f"Email: {my_profile.email}")
+    print(f"Project: {my_profile.project}")
+
 ```
 
 # 💻 Tech Stack:
