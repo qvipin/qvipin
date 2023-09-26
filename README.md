@@ -1,7 +1,9 @@
 <h1 align="center">Wsg 👋🏾, I'm qvipin ‼️</h1>
 <p align="center">
     <i>also known as</i> <b>vip3r</b> <i>,</i> <b>the guy who everyone goes to for tech help</b> <i>, and</i> <b>pro hacker OMG😮</b>
-'''class GitHubProfile:
+    
+```py
+class GitHubProfile:
     def __init__(self):
         self.username = "qvipin"
         self.name = "Vipin B"
@@ -26,4 +28,5 @@ if __name__ == "__main__":
     print(f"Twitter: {my_profile.twitter}")
     print(f"LinkedIn: {my_profile.linkedin}")
     print(f"GitHub: {my_profile.github}")
-    print(f"Email: {my_profile.email}") ''' 
+    print(f"Email: {my_profile.email}")
+```
