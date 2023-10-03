@@ -19,7 +19,7 @@ class GitHubProfile:
         self.discord = ["qvipin"]
         self.email = ["qvipin.dev@gmail.com")
         self.project = ["my website"]
-        s
+        
     
 if __name__ == "__main__":
     my_profile = GitHubProfile()
