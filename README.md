@@ -18,7 +18,7 @@ class GitHubProfile:
         self.github = ["https://github.com/qvipin"]
         self.discord = ["qvipin"]
         self.email = ["qvipin.dev@gmail.com")
-        self.project = ["my website"]
+        self.project = ["CTF Repo"]
         
     
 if __name__ == "__main__":
