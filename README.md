@@ -11,7 +11,7 @@ class GitHubProfile:
         self.title = ["Cybersecurity Student & Ethical Hacker"]
         self.hobbies = ["Hacking", "Tech", "Penetration Testing", "Developing"]
         self.interests = ["Linux", "CTFs", "ETH/BTC/SOL", "Python"]
-        self.learning = ["Linux", "SEC275", "Python"]
+        self.learning = ["Linux", "SEC275", "Python", "SEC+", "GCC"]
         self.website = ["WIP"]
         self.twitter = ["WIP"]
         self.youtube = ["https://www.youtube.com/@qvipin"]
