@@ -1,6 +1,6 @@
 <h1 align="center">Wsg 👋🏾, I'm qvipin ‼️</h1>
 <p align="center">
-    <i>also known as</i> <b>vip3r</b> <i>,</i> <b>my mom's IT support</b> <i>, and</i> <b>a munch</b>
+    <i>also known as</i> <b>vip3r</b> <i>,</i> <b>my mom's IT support</b> <i>, and</i> <b>a nerd</b>
     
 ```py
 class GitHubProfile:
