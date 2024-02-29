@@ -11,14 +11,14 @@ class GitHubProfile:
         self.title = ["Cybersecurity Student & Ethical Hacker"]
         self.hobbies = ["Hacking", "Tech", "Penetration Testing", "Developing"]
         self.interests = ["Linux", "CTFs", "ETH/BTC/SOL", "Python"]
-        self.learning = ["Linux", "SEC275", "Python", "SEC+", "GCC"]
-        self.website = ["WIP"]
-        self.twitter = ["WIP"]
+        self.learning = ["Linux", "SEC275", "Python", "SEC+", "eJPT"]
+        self.website = ["vipinb.xyz"]
+        self.twitter = ["@qvipinb"]
         self.youtube = ["https://www.youtube.com/@qvipin"]
         self.github = ["https://github.com/qvipin"]
         self.discord = ["qvipin"]
         self.email = ["qvipin.dev@gmail.com"]
-        self.project = ["Working on my website & Taking the SEC+"]
+        self.project = ["Working on THM Machines & Studying for the GFACT"]
 
 ```
 ![change image ](https://tryhackme-badges.s3.amazonaws.com/vipin.b.png)
