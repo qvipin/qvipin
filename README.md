@@ -10,7 +10,7 @@ class GitHubProfile:
         self.location = ["on the moon 🌙"]
         self.title = ["Cybersecurity Student & Ethical Hacker"]
         self.hobbies = ["Hacking", "Tech", "Penetration Testing", "Developing"]
-        self.interests = ["Linux", "CTFs", "ETH/BTC/SOL", "Python"]
+        self.interests = ["Linux", "CTFs", "THM & HTB", "Python"]
         self.learning = ["Linux", "SEC275", "Python", "SEC+", "eJPT"]
         self.website = ["vipinb.xyz"]
         self.twitter = ["@qvipinb"]
