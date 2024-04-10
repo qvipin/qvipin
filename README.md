@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **qvipin.dev@gmail.com**
 
-- ⚡ Favorite Lyric **"Gotta make my haters mad, give 'em somethin' to talk about"**
+- ⚡ Favorite Lyric __*"Gotta make my haters mad, give 'em somethin' to talk about"*__
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
