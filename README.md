@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning/studying for **Python, GFACT**
 
+- 🎖️ My Certifications: Google Cybersecurity Certificate & MOS PowerPoint Associate (2019)
+
 - 👨‍💻 My website!? [https://vipinb.xyz](https://vipinb.xyz)
 
 - 📝 I regularly write Articles/Writeups on [https://vipinb.xyz/blog](https://vipinb.xyz/blog)
