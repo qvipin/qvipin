@@ -1,4 +1,4 @@
-<h1 align="center">Hiya 👋, I'm Vipin B</h1>
+<h1 align="center">Hiya 👋🏾, I'm Vipin B</h1>
 <h3 align="center">CTF Competitor & Cybersecurity/Programming student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qvipin&label=Profile%20views&color=0e75b6&style=flat" alt="qvipin" /> </p>
