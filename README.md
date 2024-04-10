@@ -35,3 +35,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qvipin&show_icons=true&locale=en&layout=compact" alt="qvipin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qvipin&show_icons=true&locale=en" alt="qvipin" /></p>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/vipin.b.png" alt="TryHackMe">
+
