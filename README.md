@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/qvipinb" target="blank"><img src="https://img.shields.io/twitter/follow/qvipinb?logo=twitter&style=for-the-badge" alt="qvipinb" /></a> </p>
 
-- 🔭 I’m currently working on [CyberStudents](https://vipinb.xyz/csd)
+- 🔭 I’m currently working on [CyberStudents](https://vipinb.xyz/csd), AutoEnum, OpenMingle, and CSD CTF 2024.
 
-- 🌱 I’m currently learning/studying for **C, Reverse Engineering**
+- 🌱 I’m currently learning **C, Reverse Engineering**
 
 - 🎖️ My Certifications: GFACT | Google Cybersecurity Certification
 - 👨‍💻 My website!? [https://vipin.xyz](https://vipin.xyz)
