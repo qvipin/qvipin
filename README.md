@@ -7,17 +7,16 @@
 
 - 🔭 I’m currently working on [CyberStudents](https://vipinb.xyz/csd)
 
-- 🌱 I’m currently learning/studying for **Python, GFACT**
+- 🌱 I’m currently learning/studying for **C, Reverse Engineering**
 
-- 🎖️ My Certifications: Google Cybersecurity Certificate & MOS PowerPoint Associate (2019)
+- 🎖️ My Certifications: GFACT | Google Cybersecurity Certification
+- 👨‍💻 My website!? [https://vipin.xyz](https://vipin.xyz)
 
-- 👨‍💻 My website!? [https://vipinb.xyz](https://vipinb.xyz)
+- 📝 I regularly write Articles/Writeups on [https://vipin.xyz/blog](https://vipin.xyz/blog)
 
-- 📝 I regularly write Articles/Writeups on [https://vipinb.xyz/blog](https://vipinb.xyz/blog)
+- 💭 My Hobbies/Interests **CTFs, Lockpicking, Redteaming, Reverse Engineering**
 
-- 💭 My Hobbies/Interests **CTFs, Cybersecurity, Hacking, THM, Pentesting**
-
-- 📫 How to reach me **qvipin.dev@gmail.com**
+- 📫 How to reach me **vipin@vipin.xyz**
 
 - ⚡ Favorite Lyric __*"Gotta make my haters mad, give 'em somethin' to talk about"*__
 
