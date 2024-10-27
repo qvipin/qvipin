@@ -18,8 +18,8 @@
 
 - 📫 How to reach me **vipin@vipin.xyz**
 
-- ⚡ Favorite Lyrics __*"Gotta make my haters mad, give 'em somethin' to talk about"*__ & __*"And I put this on Onyx, I'ma leave my opp in the cement"*__
-
+- ⚡ Favorite Lyric __*"Gotta make my haters mad, give 'em somethin' to talk about"*__
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/qvipinb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qvipinb" height="30" width="40" /></a>
