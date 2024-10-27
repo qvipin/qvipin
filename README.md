@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vipin@vipin.xyz**
 
-- ⚡ Favorite Lyric __*"Gotta make my haters mad, give 'em somethin' to talk about"*__
+- ⚡ Favorite Lyric __*"Gotta make my haters mad, give 'em somethin' to talk about"*__ & __*"And I put this on Onyx, I'ma leave my opp in the cement"*__
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
