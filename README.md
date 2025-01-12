@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/qvipinb" target="blank"><img src="https://img.shields.io/twitter/follow/qvipinb?logo=twitter&style=for-the-badge" alt="qvipinb" /></a> </p>
 
-- 🔭 I’m currently working on [CyberStudents](https://vipinb.xyz/csd), AutoEnum, OpenMingle, and CSD CTF 2024.
+- 🔭 I’m currently working on [CyberStudents](https://vipinb.xyz/csd), qangr, FlagForge, and another personal project.
 
 - 🌱 I’m currently learning **C, Reverse Engineering**
 
