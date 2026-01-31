@@ -1,5 +1,5 @@
 <samp>
-CTF enthusiast & cybersecurity student
+CTF junkie & cybersecurity student
 <br/> 
 HS student
 <br/>
@@ -7,8 +7,6 @@ HS student
 important links
 <br/> 
 • <a href="https://vipin.xyz">vipin.xyz</a> - my site
-<br/> 
-• <a href="https://0xf1.sh">0xf1.sh</a> - my ctf team
 
 <br/> 
 <br/> 
