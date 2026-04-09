@@ -1,5 +1,5 @@
 <samp>
-security research & CTFing
+Security research & CTFing
 <br/> 
 HS student
 <br/>
@@ -7,6 +7,7 @@ HS student
 important links
 <br/> 
 • <a href="https://vipin.xyz">vipin.xyz</a> - my site
+<br/> 
 • <a href="https://spl.team">spl.team</a> - my ctf team
 <br/> 
 <br/> 
