@@ -1,7 +1,7 @@
 <samp>
-Security research & CTFing
+VR, hardware, & CTFs
 <br/> 
-HS student
+17
 <br/>
 <br/> 
 important links
@@ -14,4 +14,4 @@ important links
 contact me through any of those means below
 <br/>
 <br/>
-<a href="mailto:vipin@vipin.xyz">vipin@vipin.xyz</a> • <a href="https://discord.com/users/693224764587770038">Discord</a> 
+<a href="mailto:vipin@vipin.xyz">vipin@vipin.xyz</a> • <a href="https://discord.com/users/693224764587770038">Discord</a> • <a href="https://www.vipin.xyz/pgp/vipin.asc">pgp</a>
